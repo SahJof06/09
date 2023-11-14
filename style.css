@@ -1,0 +1,10 @@
+section{
+    flex-direction: row;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+img{
+    align-items: center;
+}
+
