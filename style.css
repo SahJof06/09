@@ -1,10 +1,16 @@
-section{
+section {
     flex-direction: row;
     display: flex;
+    flex-wrap: wrap;
     justify-content: center;
     align-items: center;
 }
-img{
+
+img {
     align-items: center;
 }
 
+main {
+    background: rgb(0, 0, 0);
+    background: radial-gradient(circle, rgb(0, 0, 0) 5%, rgba(209, 17, 17, 0.808) 100%);
+}
